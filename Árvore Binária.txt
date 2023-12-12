@@ -1,0 +1,12 @@
+﻿Qual é a profundidade da árvore formada?
+
+
+A árvore possui quatro níveis partindo do nível zero ao nível três, sendo assim ela possui a profundidade igual a TRÊS.
+
+
+
+
+Quais são os nós que são nós folhas?
+
+
+36, 64, 133, 422, 523, pois eles não possuem nenhuma ramificação para que se tornem um nó filho.
